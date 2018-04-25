@@ -1,0 +1,11 @@
+EncChan		KEYWORD1
+Button		KEYWORD1
+Tube		KEYWORD1
+Nixieduino	KEYWORD1
+Init		KEYWORD2
+Write		KEYWORD2
+On			KEYWORD2
+Off			KEYWORD2
+Process		KEYWORD2
+IncCounter	KEYWORD2
+GetState	KEYWORD2
